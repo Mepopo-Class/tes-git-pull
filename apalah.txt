@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 مَنْ شَهِدَ أَنْ لَا إِلَهَ إِلَّا اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ ، حَرَّمَ اللَّهُ عَلَيْهِ النَّارَ
 
 “Barangsiapa bersyahadat ‘Laailaaha Illallah’ dan ‘Muhammad Rasulullah’, Allah mengharamkan neraka baginya” (HR. Al Bukhari 6938, Muslim 29)
@@ -5,3 +6,10 @@
 
 
 Sumber: https://muslim.or.id/14984-makna-hadits-tidak-masuk-surga.html
+=======
+<<<<<<< HEAD
+ello
+ello juga! 
+ok sekarang saya mau ngepush
+Saya ngepush lagi ini hehe
+>>>>>>> 36c04c18e75a73eeaac9843255df0d5035d4eb66
